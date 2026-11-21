@@ -1,0 +1,5 @@
+DISPLAY_NAME=GroupRequest
+DESCRIPTION=Beta
+MAIN=main.py
+MEMORY=256
+VERSION=recommended
